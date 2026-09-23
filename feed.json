@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "SSM",
+    "description": "",
+    "home_page_url": "https://alexandruconstantin.vascons.ro",
+    "feed_url": "https://alexandruconstantin.vascons.ro/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "https://constantinionalex.github.io/vascons/"
+    },
+    "items": [
+    ]
+}

@@ -1,2 +1,0 @@
-# SSM
-Site Coordonator SSM
