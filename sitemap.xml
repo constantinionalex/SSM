@@ -1,38 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://alexandruconstantin.vascons.ro/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://fotofuel.vascons.ro/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>https://alexandruconstantin.vascons.ro/</loc>
+<loc>https://fotofuel.vascons.ro/</loc>
 </url>
 <url>
-<loc>https://alexandruconstantin.vascons.ro/contact.html</loc>
+<loc>https://fotofuel.vascons.ro/contact.html</loc>
 <lastmod>2026-10-04T14:03:39+03:00</lastmod>
 <image:image>
-<image:loc>https://alexandruconstantin.vascons.ro/media/posts/7/pexels-rdne-7580908.jpg</image:loc>
+<image:loc>https://fotofuel.vascons.ro/media/posts/7/pexels-rdne-7580908.jpg</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>https://alexandruconstantin.vascons.ro/de-ce-sa-alegi-fotofuel-srl-d.html</loc>
+<loc>https://fotofuel.vascons.ro/de-ce-sa-alegi-fotofuel-srl-d.html</loc>
 <lastmod>2026-10-04T14:18:35+03:00</lastmod>
 <image:image>
-<image:loc>https://alexandruconstantin.vascons.ro/media/posts/6/Code_Generated_Image.png</image:loc>
+<image:loc>https://fotofuel.vascons.ro/media/posts/6/Code_Generated_Image.png</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>https://alexandruconstantin.vascons.ro/partenerul-tau-de-incredere-in-securitatea-muncii-pe-santier.html</loc>
+<loc>https://fotofuel.vascons.ro/partenerul-tau-de-incredere-in-securitatea-muncii-pe-santier.html</loc>
 <lastmod>2026-10-04T14:09:54+03:00</lastmod>
 <image:image>
-<image:loc>https://alexandruconstantin.vascons.ro/media/posts/4/pexels-whateverett-takes-5422490-1.jpg</image:loc>
+<image:loc>https://fotofuel.vascons.ro/media/posts/4/pexels-whateverett-takes-5422490-1.jpg</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>https://alexandruconstantin.vascons.ro/servicii.html</loc>
+<loc>https://fotofuel.vascons.ro/servicii.html</loc>
 <lastmod>2026-10-04T14:18:47+03:00</lastmod>
 <image:image>
-<image:loc>https://alexandruconstantin.vascons.ro/media/posts/5/Construction-Company-in-Vadodara-_-Patel-Infraspace.jpg</image:loc>
+<image:loc>https://fotofuel.vascons.ro/media/posts/5/Construction-Company-in-Vadodara-_-Patel-Infraspace.jpg</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>

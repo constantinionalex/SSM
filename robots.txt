@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://alexandruconstantin.vascons.ro/sitemap.xml
+Sitemap: https://fotofuel.vascons.ro/sitemap.xml
